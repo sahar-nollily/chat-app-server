@@ -1,0 +1,8 @@
+
+cd /Users/sa7arnollily/Desktop/chat-app-server-main 
+
+source ~/.zshrc
+
+npm install express socket.io multer
+
+node index.js
