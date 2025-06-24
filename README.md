@@ -1,5 +1,5 @@
 # Chat app server
-Cat app server built with **Express** and **Socket.IO** for real-time messaging.
+Chat app server built with **Express** and **Socket.IO** for real-time messaging.
 - Multer for handling file uploads
 - Socket events:
   - `new message`
